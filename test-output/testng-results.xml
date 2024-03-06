@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-06T00:16:00 IST" name="Suite" finished-at="2024-03-06T00:17:05 IST" duration-ms="65434">
+    <groups>
+      <group name="regression">
+        <method signature="TC_001_CarWashingSrvcsDetails.checkLocation()[pri:1, instance:testCases.TC_001_CarWashingSrvcsDetails@19e4653c]" name="checkLocation" class="testCases.TC_001_CarWashingSrvcsDetails"/>
+        <method signature="TC_003_GymsSubList.printGymSubList()[pri:2, instance:testCases.TC_003_GymsSubList@cb0755b]" name="printGymSubList" class="testCases.TC_003_GymsSubList"/>
+        <method signature="TC_002_LauchFreeListing.printInvalidMessage()[pri:3, instance:testCases.TC_002_LauchFreeListing@53fb3dab]" name="printInvalidMessage" class="testCases.TC_002_LauchFreeListing"/>
+        <method signature="TC_003_GymsSubList.printSubMenuList()[pri:3, instance:testCases.TC_003_GymsSubList@cb0755b]" name="printSubMenuList" class="testCases.TC_003_GymsSubList"/>
+        <method signature="TC_002_LauchFreeListing.navigateBack()[pri:4, instance:testCases.TC_002_LauchFreeListing@53fb3dab]" name="navigateBack" class="testCases.TC_002_LauchFreeListing"/>
+        <method signature="TC_001_CarWashingSrvcsDetails.printCarWashingSrvcsDetails()[pri:5, instance:testCases.TC_001_CarWashingSrvcsDetails@19e4653c]" name="printCarWashingSrvcsDetails" class="testCases.TC_001_CarWashingSrvcsDetails"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="TC_001_CarWashingSrvcsDetails.checkLocation()[pri:1, instance:testCases.TC_001_CarWashingSrvcsDetails@19e4653c]" name="checkLocation" class="testCases.TC_001_CarWashingSrvcsDetails"/>
+        <method signature="TC_002_LauchFreeListing.launchFreeListing()[pri:1, instance:testCases.TC_002_LauchFreeListing@53fb3dab]" name="launchFreeListing" class="testCases.TC_002_LauchFreeListing"/>
+        <method signature="TC_003_GymsSubList.clickGymSection()[pri:1, instance:testCases.TC_003_GymsSubList@cb0755b]" name="clickGymSection" class="testCases.TC_003_GymsSubList"/>
+        <method signature="TC_001_CarWashingSrvcsDetails.searchCarWashingSrvcs()[pri:2, instance:testCases.TC_001_CarWashingSrvcsDetails@19e4653c]" name="searchCarWashingSrvcs" class="testCases.TC_001_CarWashingSrvcsDetails"/>
+        <method signature="TC_002_LauchFreeListing.clickStartNowBtn()[pri:2, instance:testCases.TC_002_LauchFreeListing@53fb3dab]" name="clickStartNowBtn" class="testCases.TC_002_LauchFreeListing"/>
+        <method signature="TC_001_CarWashingSrvcsDetails.applyFilters()[pri:3, instance:testCases.TC_001_CarWashingSrvcsDetails@19e4653c]" name="applyFilters" class="testCases.TC_001_CarWashingSrvcsDetails"/>
+        <method signature="TC_001_CarWashingSrvcsDetails.clickContactButton()[pri:4, instance:testCases.TC_001_CarWashingSrvcsDetails@19e4653c]" name="clickContactButton" class="testCases.TC_001_CarWashingSrvcsDetails"/>
+      </group> <!-- sanity -->
+      <group name="master">
+        <method signature="TC_001_CarWashingSrvcsDetails.checkLocation()[pri:1, instance:testCases.TC_001_CarWashingSrvcsDetails@19e4653c]" name="checkLocation" class="testCases.TC_001_CarWashingSrvcsDetails"/>
+        <method signature="TC_002_LauchFreeListing.launchFreeListing()[pri:1, instance:testCases.TC_002_LauchFreeListing@53fb3dab]" name="launchFreeListing" class="testCases.TC_002_LauchFreeListing"/>
+        <method signature="TC_003_GymsSubList.clickGymSection()[pri:1, instance:testCases.TC_003_GymsSubList@cb0755b]" name="clickGymSection" class="testCases.TC_003_GymsSubList"/>
+        <method signature="TC_001_CarWashingSrvcsDetails.searchCarWashingSrvcs()[pri:2, instance:testCases.TC_001_CarWashingSrvcsDetails@19e4653c]" name="searchCarWashingSrvcs" class="testCases.TC_001_CarWashingSrvcsDetails"/>
+        <method signature="TC_002_LauchFreeListing.clickStartNowBtn()[pri:2, instance:testCases.TC_002_LauchFreeListing@53fb3dab]" name="clickStartNowBtn" class="testCases.TC_002_LauchFreeListing"/>
+        <method signature="TC_003_GymsSubList.printGymSubList()[pri:2, instance:testCases.TC_003_GymsSubList@cb0755b]" name="printGymSubList" class="testCases.TC_003_GymsSubList"/>
+        <method signature="TC_001_CarWashingSrvcsDetails.applyFilters()[pri:3, instance:testCases.TC_001_CarWashingSrvcsDetails@19e4653c]" name="applyFilters" class="testCases.TC_001_CarWashingSrvcsDetails"/>
+        <method signature="TC_002_LauchFreeListing.printInvalidMessage()[pri:3, instance:testCases.TC_002_LauchFreeListing@53fb3dab]" name="printInvalidMessage" class="testCases.TC_002_LauchFreeListing"/>
+        <method signature="TC_003_GymsSubList.printSubMenuList()[pri:3, instance:testCases.TC_003_GymsSubList@cb0755b]" name="printSubMenuList" class="testCases.TC_003_GymsSubList"/>
+        <method signature="TC_001_CarWashingSrvcsDetails.clickContactButton()[pri:4, instance:testCases.TC_001_CarWashingSrvcsDetails@19e4653c]" name="clickContactButton" class="testCases.TC_001_CarWashingSrvcsDetails"/>
+        <method signature="TC_002_LauchFreeListing.navigateBack()[pri:4, instance:testCases.TC_002_LauchFreeListing@53fb3dab]" name="navigateBack" class="testCases.TC_002_LauchFreeListing"/>
+        <method signature="TC_001_CarWashingSrvcsDetails.printCarWashingSrvcsDetails()[pri:5, instance:testCases.TC_001_CarWashingSrvcsDetails@19e4653c]" name="printCarWashingSrvcsDetails" class="testCases.TC_001_CarWashingSrvcsDetails"/>
+      </group> <!-- master -->
+    </groups>
+    <test started-at="2024-03-06T00:16:00 IST" name="Test" finished-at="2024-03-06T00:17:05 IST" duration-ms="65434">
+      <class name="testCases.TC_003_GymsSubList">
+        <test-method signature="clickGymSection()[pri:1, instance:testCases.TC_003_GymsSubList@cb0755b]" started-at="2024-03-06T00:17:00 IST" name="clickGymSection" finished-at="2024-03-06T00:17:00 IST" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickGymSection -->
+        <test-method signature="printGymSubList()[pri:2, instance:testCases.TC_003_GymsSubList@cb0755b]" started-at="2024-03-06T00:17:00 IST" name="printGymSubList" finished-at="2024-03-06T00:17:03 IST" duration-ms="2622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printGymSubList -->
+        <test-method signature="printSubMenuList()[pri:3, instance:testCases.TC_003_GymsSubList@cb0755b]" started-at="2024-03-06T00:17:03 IST" name="printSubMenuList" finished-at="2024-03-06T00:17:04 IST" duration-ms="866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printSubMenuList -->
+      </class> <!-- testCases.TC_003_GymsSubList -->
+      <class name="testCases.TC_002_LauchFreeListing">
+        <test-method signature="launchFreeListing()[pri:1, instance:testCases.TC_002_LauchFreeListing@53fb3dab]" started-at="2024-03-06T00:16:51 IST" name="launchFreeListing" finished-at="2024-03-06T00:16:54 IST" duration-ms="2976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchFreeListing -->
+        <test-method signature="clickStartNowBtn()[pri:2, instance:testCases.TC_002_LauchFreeListing@53fb3dab]" started-at="2024-03-06T00:16:54 IST" name="clickStartNowBtn" finished-at="2024-03-06T00:16:56 IST" duration-ms="2047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickStartNowBtn -->
+        <test-method signature="printInvalidMessage()[pri:3, instance:testCases.TC_002_LauchFreeListing@53fb3dab]" started-at="2024-03-06T00:16:56 IST" name="printInvalidMessage" finished-at="2024-03-06T00:16:58 IST" duration-ms="2020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printInvalidMessage -->
+        <test-method signature="navigateBack()[pri:4, instance:testCases.TC_002_LauchFreeListing@53fb3dab]" started-at="2024-03-06T00:16:58 IST" name="navigateBack" finished-at="2024-03-06T00:16:59 IST" duration-ms="1107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateBack -->
+      </class> <!-- testCases.TC_002_LauchFreeListing -->
+      <class name="testCases.TC_001_CarWashingSrvcsDetails">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_001_CarWashingSrvcsDetails@19e4653c]" started-at="2024-03-06T00:16:00 IST" name="setup" finished-at="2024-03-06T00:16:05 IST" duration-ms="4957" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkLocation()[pri:1, instance:testCases.TC_001_CarWashingSrvcsDetails@19e4653c]" started-at="2024-03-06T00:16:05 IST" name="checkLocation" finished-at="2024-03-06T00:16:13 IST" duration-ms="8368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLocation -->
+        <test-method signature="searchCarWashingSrvcs()[pri:2, instance:testCases.TC_001_CarWashingSrvcsDetails@19e4653c]" started-at="2024-03-06T00:16:14 IST" name="searchCarWashingSrvcs" finished-at="2024-03-06T00:16:21 IST" duration-ms="7355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchCarWashingSrvcs -->
+        <test-method signature="applyFilters()[pri:3, instance:testCases.TC_001_CarWashingSrvcsDetails@19e4653c]" started-at="2024-03-06T00:16:21 IST" name="applyFilters" finished-at="2024-03-06T00:16:24 IST" duration-ms="2372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applyFilters -->
+        <test-method signature="clickContactButton()[pri:4, instance:testCases.TC_001_CarWashingSrvcsDetails@19e4653c]" started-at="2024-03-06T00:16:24 IST" name="clickContactButton" finished-at="2024-03-06T00:16:47 IST" duration-ms="23568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickContactButton -->
+        <test-method signature="printCarWashingSrvcsDetails()[pri:5, instance:testCases.TC_001_CarWashingSrvcsDetails@19e4653c]" started-at="2024-03-06T00:16:48 IST" name="printCarWashingSrvcsDetails" finished-at="2024-03-06T00:16:50 IST" duration-ms="2677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printCarWashingSrvcsDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_CarWashingSrvcsDetails@19e4653c]" started-at="2024-03-06T00:17:04 IST" name="tearDown" finished-at="2024-03-06T00:17:05 IST" duration-ms="1105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_001_CarWashingSrvcsDetails -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
