@@ -71,7 +71,7 @@ public class GymsSubList extends BasePage{
 	        }
 
 	        if (Text.contains("Amenities")) {
-	            System.out.println("\033[0;1m" + "-------------Amentities Dropdown List----------" + "\033[0m");
+	            System.out.println("\033[0;1m" + "-------------Amenities Dropdown List----------" + "\033[0m");
 	            JavascriptExecutor js = (JavascriptExecutor) driver;
 	            js.executeScript("arguments[0].click();", SubList.get(i));
 	            for (int j = 0; j < dropDown.size(); j++) {

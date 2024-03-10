@@ -130,7 +130,7 @@ public class CarWashing extends BasePage {
 
 	public void handleLastPopupWindow() {
 		try {
-		afterFilterPopup.click();
+		//afterFilterPopup.click();
 		Alert alert = driver.switchTo().alert();
         // Dismiss the alert to close the popup
         alert.dismiss();

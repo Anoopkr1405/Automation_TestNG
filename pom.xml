@@ -19,7 +19,6 @@
 <configuration>
 <suiteXmlFiles>
 <suiteXmlFile>testng.xml</suiteXmlFile>
-<!--  <suiteXmlFile>MasterSuite.xml</suiteXmlFile> -->
 </suiteXmlFiles>
 </configuration>
 </plugin>

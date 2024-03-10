@@ -129,6 +129,7 @@ public class BaseClass {
 	}
 	
 	
+	
 	public static String captureScreen(String tname) throws IOException {
 
 		String timeStamp = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
